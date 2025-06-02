@@ -19,10 +19,4 @@
 
 ### Clean Architecture:
 <p align="center">
-<img src="https://github.com/user-attachments/assets/3c7f4670-da21-4467-9dfb-27909b103ee1" />
-
-
-### Use Case:
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/e8ab7a08-653a-49a0-b9f7-151672cfe901" />
+<img src="https://github.com/user-attachments/assets/bf91aeff-4f63-4e8b-8949-5f3c80578e71" />
